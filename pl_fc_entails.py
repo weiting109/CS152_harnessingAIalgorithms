@@ -1,6 +1,6 @@
 '''
 Includes classes for propositional logic: Symbol, DefiniteClause
-Implements front chaining entailment algorithm described in Section 7.5 of Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach (3rd ed.). Boston: Pearson.Sections 7.5.3 of Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach (3rd ed.). Boston: Pearson.
+Implements front chaining entailment algorithm described in Section 7.5 of Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach (3rd ed.). Boston: Pearson.
 '''
 
 from collections import deque
